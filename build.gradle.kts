@@ -1,6 +1,6 @@
 buildscript {
 	val springBootVersion = "1.5.15.RELEASE"
-    val kotlinVersion = "1.2.61"
+    val kotlinVersion = "1.2.71"
 	extra["kotlinVersion"] = kotlinVersion
 
 	repositories {
